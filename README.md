@@ -1,1 +1,1 @@
-# Project-1-Global-and-Local-Temperatures
+# Introductory Project
